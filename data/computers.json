@@ -1,0 +1,53 @@
+[
+    {
+        "usage": "PC de jeu",
+        "CPU": "Intel Core i5 7400",
+        "GPU": "NVIDIA GeForce GTX 1060",
+        "SSD": "128 Go",
+        "memory": "8 Go DDR4 intégrée",
+        "OS": "Microsoft Windows 10",
+        "price": 1199.90,
+        "currency": "€"
+    },
+    {
+        "usage": "PC de bureautique",
+        "CPU": "Intel Pentium G4400",
+        "GPU": "Intel HD Graphics 510",
+        "SSD": "",
+        "memory": "4 Go DDR4 intégrée",
+        "OS": "aucun",
+        "price": 329.95,
+        "currency": "€"        
+    },
+    {
+        "usage": "PC de bureautique",
+        "CPU": "Intel Pentium G4400",
+        "GPU": "Intel HD Graphics 510",
+        "SSD": "",
+        "memory": "4 Go DDR4 intégrée",
+        "OS": "aucun",
+        "price": 389.90,
+        "currency": "€"        
+    },
+    {
+        "usage": "PC de bureautique",
+        "CPU": "Intel Pentium G4400",
+        "GPU": "Intel HD Graphics",
+        "SSD": "SSD 250 Go",
+        "memory": "8 Go DDR4",
+        "OS": "aucun",
+        "price": 489.95,
+        "currency": "€"
+    },
+    {
+        "usage": "PC de jeu",
+        "CPU": "Processeur AMD Ryzen 3 1200",
+        "GPU": "AMD Radeon RX 560",
+        "SSD": "128 Go",
+        "memory": "8 Go DDR4 intégrée",
+        "OS": "Microsoft Windows 10",
+        "price": 1199.90,
+        "currency": "€"
+    }
+
+]

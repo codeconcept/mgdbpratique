@@ -1,0 +1,42 @@
+[{
+        "recipe": "crêpes",
+        "category": "dessert",
+        "preptime": 45,
+        "nbpeople": 4,
+        "ingredients": ["250 g de farine de froment", "50 g de beurre", "50 cl de lait", "10 cl d' eau", "4 gros oeufs", "2 cuillères à soupe de sucre en poudre", "1 pincée de sel"],
+        "description": "Dans un saladier, ajoutez la farine de froment, 2 cuillères à soupe de sucre, une pincée de sel, versez le lait puis l'eau progressivement tout en battant avec un fouet, rajoutez le beurre au préalablement fondu et les œufs pour finir. Laissez la pâte à crêpes reposer pendant 30 à 45 mn au frais.",
+        "cooking": ["poêle", "billig"]
+    },
+    {
+        "recipe": "mousse au chocolat noir",
+        "category": "dessert",
+        "preptime": 20,
+        "nbpeople": 6,
+        "ingredients": ["6 oeufs", "200 g de chocolat noir (chocolat dégustation à 86% de cacao)", "25 g de beurre"],
+        "description": "Faire fondre le chocolat et le beurre, au bain marie à feu doux ou au micro ondres (programme décongélation). Ajouter les jaunes d'oeufs, bien mélanger. Battre les blancs d'oeufs en neige ferme. Les incoporer au chocolat. Couvrir et mettre au frais (si possible la veille de la dégustation).",
+        "cooking": ["frigidaire"]
+    },
+    {
+        "recipe": "parmentier de canard",
+        "category": "plat",
+        "preptime": 40,
+        "nbpeople": 4,
+        "ingredients": ["4 cuisses de canard confites", "2 oignons", "2 échalotes", "10 pommes de terre", "2 cuillères à soupe de crème fraîche", "lait", "eau", "1 pincée de muscade", "sel", "poivre"],
+        "description": "laver et éplucher les pommes de terre etc etc",
+        "cooking": ["four"]
+    },
+    {
+        "recipe": "oeufs au lait",
+        "category": "dessert",
+        "preptime": 10,
+        "ingredients": ["1 l de lait entier", "6 oeufs", "6 cuillères à soupe de sucre"],
+        "description": "Faire chauffer le lait et le sucre jusqu'à ébullition. Mélanger les oeufs dans un bol. Dans un plat (qui va au four), mettre le lait sucré, puis ajouter les oeufs (mélanger vite il faut éviter de cuire les jaunes). Mettre au four respectivement : 20 minutes à thermostat 4 (120°C), 10 minutes à thermostat 6 (180°C), 5 minutes thermostat 8 (240°C)"
+    },
+    {
+        "recipe": "oeufs à la coque",
+        "category": "plat",
+        "preptime": 3,
+        "ingredients": ["oeufs"],
+        "description": "Faire bouillir de l'eau. Mettez l'oeuf dans l'eau bouillante pendant 10 minutes."
+    }
+]

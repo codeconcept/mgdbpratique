@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Angular",
+        "techno": "Front",
+        "company": "Google",
+        "team": ["Miško Hevery", "Igor Minar", "Rob Wormald"]
+    },
+    {
+        "name": "React",
+        "techno": "Front",
+        "company": "Facebook",
+        "team": ["Dan Abramov", "Andrew Clark", "Sophie Alpert"]
+    },
+    {
+        "name": "Node.js",
+        "techno": "Front",
+        "company": "Google",
+        "team": ["Ryan Dahl", "Isaac Schlueter"]
+    },
+    {
+        "name": "Vue.js",
+        "techno": "Front",
+        "company": "",
+        "team": ["Evan You", "Alex Kyriakidis", "Damian Dulisz"]
+    },
+    {
+        "name": "MongoDB",
+        "techno": "Database",
+        "company": "",
+        "team": ["Eliot Horowitz", "Dwight Merriman", "Richard Kreuter"]
+    }
+]
